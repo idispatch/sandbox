@@ -1,0 +1,3 @@
+#!/bin/sh
+echo Authors:
+git log . | grep Author | sort | sed -e 's/Author: //' | uniq -c | sort -r
