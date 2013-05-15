@@ -1,0 +1,11 @@
+[alias]
+	logtree = log --graph --oneline --decorate --all --color
+	st = status
+	log = log --color
+[user]
+	name = Oleg Kosenkov
+	email = oleg@kosenkov.ca
+[core]
+	editor = vim
+[color]
+	ui = true
