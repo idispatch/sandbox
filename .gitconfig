@@ -2,6 +2,9 @@
 	logtree = log --graph --oneline --decorate --all --color
 	st = status
 	log = log --color
+	co = checkout
+	bt = branch
+	br = branch
 [user]
 	name = Oleg Kosenkov
 	email = oleg@kosenkov.ca
